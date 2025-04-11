@@ -80,4 +80,4 @@ This game is a local simulation of multiplayer synchronization, testing real-tim
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/mimic-cube.git
+   git clone https://github.com/tashu16sharma12/Mimic_Cube.git
